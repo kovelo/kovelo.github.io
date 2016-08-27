@@ -46,6 +46,9 @@ h6 {
   text-transform: uppercase;
   font-weight: 700;
 }
+.modal-body h2 {
+  text-transform: initial;
+}
 .img-centered {
   margin: 0 auto;
 }
